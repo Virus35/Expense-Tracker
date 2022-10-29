@@ -232,6 +232,7 @@ cursor: pointer;
 
 @media screen and (max-width:568px){
     .container{
+        /* border: 2px solid red; */
         padding: 1.5em;
     }
     .container>h2{
@@ -245,7 +246,7 @@ cursor: pointer;
         font-size: 1rem;
     }
     .details{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         font-size: 1rem;
     }
     input,select{
@@ -283,6 +284,10 @@ cursor: pointer;
 
     body{
         display: block;
+        background: 
+        white;
+        display: flex;
+        align-items: center;
     }
 }
 
@@ -301,5 +306,6 @@ cursor: pointer;
     .toggle-1{
         display: flex;
     }
+    
 }
 

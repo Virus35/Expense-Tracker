@@ -142,5 +142,6 @@ button.addEventListener("click", (e) => {
     }
     fillData();
     reset(type);
+    swal("Good job!", "Your data has saved!", "success");
   }
 });
