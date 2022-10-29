@@ -33,7 +33,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
   👉 7. Local Storage. <br>
 
 
-### Time Taken to Complete this Project:- 6 Hours
+### Time Taken to Complete this Project:- 4 Hours
 
 ### 📬 Connect With Me
 
