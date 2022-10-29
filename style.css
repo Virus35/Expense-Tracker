@@ -267,7 +267,7 @@ cursor: pointer;
     .set{
         gap: 1rem;
         /* border: 2px solid red; */
-        width: 270px;
+        width: 280px;
         padding: 1em;
         box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     }
@@ -294,11 +294,19 @@ cursor: pointer;
 
 @media screen and (max-width:400px){
     .container{
-        padding: 0.2rem;
+        padding: 0.6em;
     }
     .details{
         background: #494d5f;
         color: white;
+    }
+    thead tr{
+        margin-top: 0.5rem;
+    }
+    thead tr td{
+        display: flex;
+        align-items: center;
+        /* border: 2px solid red; */
     }
     .toggle{
         display: none;
